@@ -1,0 +1,22 @@
+{
+  "name": "clean-node-api",
+  "version": "1.0.0",
+  "description": "Clean Architecture Node API with TDD",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm jest"
+  },
+  "keywords": [
+    "clean",
+    "architecture",
+    "tdd",
+    "nodeJS",
+    "api",
+    "jest"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
